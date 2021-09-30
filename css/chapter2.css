@@ -1,0 +1,10 @@
+header .sticker2 {
+  position: absolute;
+  width: 17rem;
+  top: 9.5rem; right: 11rem;
+  z-index: 10;
+}
+
+.info_1 {
+  top: 16%
+}
